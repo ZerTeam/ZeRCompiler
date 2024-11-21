@@ -198,4 +198,4 @@ int main(u_short numberArg, char *arg[SIZE_ARG]) {
     файлы с расширениям .zrc (ZeRCompiler file) - это файлы для компилятора (пример: _input_.zrc).
 */
 
-/* ID: HL3000, Version: 0.0.1, Date: 2024-11-01, Author: Zer Team. */
+/* ID: HL0300, Version: 0.0.1, Date: 2024-11-01, Author: Zer Team. */
